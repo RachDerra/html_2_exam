@@ -69,8 +69,7 @@ width: 100%;
 }
 .function-image {
  float: left;
- margin-right: 50px;
-
+ width: 25%;
 }
 /* Implémentation de la partie Function */
 footer {
